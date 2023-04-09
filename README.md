@@ -8,3 +8,6 @@
 api地址：[https://api.meishikf.club](https://api.meishikf.club)
 
 更多功能联系：[@cooccooc](https://t.me/cooccooc)
+
+
+此api为辅助接口，免费开放，另有盗U源码出售，可联系我
