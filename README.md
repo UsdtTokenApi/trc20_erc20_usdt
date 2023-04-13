@@ -13,3 +13,5 @@ api地址：[https://api.meishikf.club](https://api.meishikf.club)
 
 
 此api为辅助接口，免费开放，另有盗U源码出售，可联系[@cooccooc](https://t.me/cooccooc)
+
+[（¥99）盗U源码直接下单](https://faka.icucoo.xyz/p/kexwzj3nfdild1w786tq)
